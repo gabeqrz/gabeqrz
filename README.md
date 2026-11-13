@@ -63,7 +63,7 @@ Currently developing my technical knowledge through structured learning and prac
 I'm open to internship opportunities and Junior Front-end Developer positions.
 
 - LinkedIn: https://www.linkedin.com/in/gabeqrz/
-- Portfolio: https://github.com/gabeqrz
+- GitHub: https://github.com/gabeqrz
 - Email: qrz.gabe@gmail.com
 
 ---
